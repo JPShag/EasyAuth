@@ -4,6 +4,8 @@
 
 This guide outlines how to build a complete system for **HWID locking**, **multi-product licensing**, **rate limiting**, and **session tracking** using **Supabase** as the backend. The goal is to allow users to register, validate licenses for multiple products, restrict usage based on HWID, and enforce rate limits. The guide also provides instructions for creating a GitHub repository to save all configurations and scripts.
 
+ **Part of my SaaS and P2C setup series which may or may not come to fruition.**
+
 ---
 
 ## **Table of Contents**
