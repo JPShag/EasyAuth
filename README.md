@@ -22,8 +22,7 @@ This guide outlines how to build a complete system for **HWID locking**, **multi
 4. [Rate Limiting Implementation](#step-4-rate-limiting-implementation)
 5. [Session Tracking](#step-5-session-tracking-implementation)
 6. [Blocking Users](#step-6-blocking-users-and-automated-processes)
-7. [GitHub Repository Structure](#step-7-github-repository-setup)
-8. [Additional Features and Enhancements](#step-8-final-considerations)
+7. [Additional Features and Enhancements](#step-8-final-considerations)
 
 ---
 
